@@ -1,4 +1,4 @@
-# hello-world
+# 簡易時計アプリ
 
 ## Project setup
 ```
